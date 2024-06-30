@@ -10,36 +10,36 @@ function TestimonialSection() {
     {
       id: 0,
       name: "Emily Johnson",
-      country: "USA, California",
+      country: "NNPC, Nigeria",
       review:
-        "Damien's photography doesn't just capture moments; it captures emotions. Hes work is simply mesmerizing.",
+        "Hes work is simply mesmerizing.",
     },
     {
       id: 1,
       name: "John Smith",
-      country: "USA, California",
+      country: "Embassy of Isreal, Nigeria",
       review:
-        "Damien's photography doesn't just capture moments; it captures emotions. Hes work is simply mesmerizing.",
+        "Hes work is simply mesmerizing.",
     },
     {
       id: 2,
       name: "Samantha",
       country: "USA, California",
       review:
-        "I was blown away by Damien's ability to capture the essence of our wedding day. Hes photographs are our cherished memories.",
+        "Hes photographs are our cherished memories.",
     },
   ];
   return (
     <section className="">
       <section className="flex justify-between gap-[1.25rem]">
         <div>
-          <Header title="Testimonials" description="What My Clients Say" />
+          <Header title="Testimonials" description="What Our Clients Say" />
         </div>
       </section>
 
       <section className="flex justify-between gap-[1.25rem]">
         <div>
-          <Header title="Total Reviews" description="323" isSmall />
+          <Header title="Total Reviews" description="100" isSmall />
         </div>
         <div className="flex items-center gap-8">
           <div className="hidden lg:inline-flex border border-lightDark rounded-[6.25rem]  justify-between p-[0.62rem] gap-4 w-[170px]">

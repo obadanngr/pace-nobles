@@ -3,7 +3,7 @@ import React from "react";
 function LargeTextSection() {
   return (
     <section className="mt-[5rem] md:mt-[12.5rem]">
-      <div className="flex justify-end px-4 md:px-[6rem]  mb-4 md:mb-[6.25rem]">
+      <div className="flex justify-end px-4 md:px-[4rem]  mb-4 md:mb-[4.25rem]">
         <img
           src="/images/damien_big_text.png"
           alt="large portfolio owner text"

@@ -3,16 +3,14 @@ import { Separator } from "../ui/separator";
 import Socials from "../common/Socials";
 
 function FooterSection() {
-  const homeData = ["About Me", "My Works", "Testimonials"];
+  const homeData = ["About Us", "Our Works", "Testimonials"];
   const clientData = ["KLOVESTO", "Nukeway", "Cloven's", "MenVol"];
   const portfolioData = [
-    "Events",
-    "Portrait",
-    "Branding",
-    "Commerciale",
+    "Corporate Events",
+    "Brand Activations",
     "Wedding",
   ];
-  const servicesData = ["Portraits", "Events", "Commercial"];
+  const servicesData = ["Weddings", "Corporate Events", "Milestones"];
   return (
     <section>
       <div className="flex justify-between">
@@ -22,11 +20,11 @@ function FooterSection() {
         <div className="border-x border-x-lightDark flex-grow flex justify-between flex-col lg:flex-row">
           <div className="p-4 md:p-[5rem]">
             <p className="text-customGrayAlt text-[1.25rem] mb-16 font-[600]">
-              A more meaningful home for photography
+            Producing events that are experiential, with moments that are shareworthy.
             </p>
             <div className="mt-[1.25rem] md:mt-[0]">
               <div className="flex gap-2">
-                <p className="text-[1.75rem] md:text-[3.625rem] text-white font-[600]">
+                <p className="text-[1.75rem] md:text-[3.625rem] text-white font-[300]">
                   Let&apos;s
                 </p>
                 <img
@@ -34,7 +32,7 @@ function FooterSection() {
                   alt="arrow purple button"
                 />
               </div>
-              <div className="text-[1.75rem] md:text-[3.625rem] text-white font-[600]">
+              <div className="text-[1.75rem] md:text-[3.625rem] text-white font-[300]">
                 Work Together
               </div>
             </div>
@@ -119,7 +117,7 @@ function FooterSection() {
           <p>Privacy Policy</p>
         </div>
         <Socials />
-        <p>© 2024 Damien Braun Photography. All rights reserved.</p>
+        <p>© 2024 Pace & Nobles Ltd. All rights reserved.</p>
       </div>
     </section>
   );

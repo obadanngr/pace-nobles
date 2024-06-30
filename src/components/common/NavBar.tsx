@@ -31,7 +31,7 @@ function NavBar() {
             <p
               className={`hover:text-white hover:bg-superGray cursor-pointer flex items-center px-[3.12rem] gap-2 border-r border-r-superGray self-stretch  font-[500] text-customGrayAlt2`}
             >
-              About Me
+              About Us
             </p>
             <p
               className={`hover:text-white hover:bg-superGray cursor-pointer flex items-center px-[3.12rem] gap-2 border-r border-r-superGray self-stretch  font-[500] text-customGrayAlt2`}
@@ -47,7 +47,7 @@ function NavBar() {
           <div className="flex items-center gap-[40px] select-none">
             <div className="flex gap-[2.5rem] items-center">
               <div className="text-2xl md:text-4xl font-extrabold uppercase text-white">
-                <MainButton text="Contact Me" />
+                <MainButton text="Contact Us" />
               </div>
 
               <div className="flex border-r border-r-superGray self-stretch h-[7.15rem]"></div>
@@ -106,7 +106,7 @@ function NavBar() {
           <div className="my-8 select-none animate-in slide-in-from-right">
             <div className="flex flex-col gap-8 mt-8 mx-4">
               <p className={`text-white cursor-pointer`}>Home</p>
-              <p className={`text-white cursor-pointer`}>About Me</p>
+              <p className={`text-white cursor-pointer`}>About Us</p>
               <p className={`text-white cursor-pointer`}>Portfolio</p>
               <p className={`text-white cursor-pointer`}>Services</p>
 

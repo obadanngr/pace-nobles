@@ -35,7 +35,7 @@ function PortfolioSection() {
         <div>
           <Header
             title="Portfolio"
-            description="Explore My photography work."
+            description="Explore some of our events."
           />
         </div>
         <div className="flex items-center gap-8">

@@ -7,10 +7,10 @@ function HeroSection() {
       <section className="flex justify-between md:items-center flex-col md:flex-row px-4 md:px-[6rem] gap-16">
         <div>
           <p className="text-customGray uppercase text-[1.375rem] font-[500]">
-            Stunning Photography by
+          CREATING MEMORABLE EVENTS
           </p>
-          <p className="uppercase font-[600] text-[2.5rem] md:text-[5rem] text-white md:w-[min-content] lg:w-[max-content]">
-            {PORTFOLIO_OWNER_FULLNAME}
+          <p className="uppercase font-[300] text-[1.5rem] md:text-[4rem] text-white md:w-[min-content] lg:w-[max-content]">
+          one milestone at a time...
           </p>
         </div>
         <div className="hidden lg:block">
@@ -18,7 +18,7 @@ function HeroSection() {
         </div>
         <div className="mt-[1.25rem] md:mt-[0]">
           <div className="flex gap-2">
-            <p className="text-[1.75rem] md:text-[3.625rem] text-white font-[600]">
+            <p className="text-[1.75rem] md:text-[3.625rem] text-white font-[400]">
               Let&apos;s
             </p>
             <img
@@ -26,7 +26,7 @@ function HeroSection() {
               alt="arrow purple button"
             />
           </div>
-          <div className="text-[1.75rem] md:text-[3.625rem] text-white font-[600]">
+          <div className="text-[1.75rem] md:text-[3.625rem] text-white font-[400]">
             Work Together
           </div>
         </div>

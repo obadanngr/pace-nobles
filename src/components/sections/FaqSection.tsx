@@ -11,52 +11,52 @@ function FaqSection() {
   const faqData = [
     {
       id: "0",
-      question: "What type of photography do you specialize in?",
+      question: "What types of events do you plan?",
       answer:
-        "I specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
+        "We specialize in planning a wide range of events, from weddings and corporate functions to social gatherings and themed parties. No matter the occasion, we'll work with you to create a unique and memorable experience.",
     },
     {
       id: "1",
-      question: "How can I book a photography session with you?",
+      question: "Why should I hire an event planner?",
       answer:
-        "I specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
+        "Event planners take the stress out of hosting! We handle all the details, from venue selection and vendor coordination to budget management and day-of execution. This allows you to focus on enjoying your event.",
     },
     {
       id: "2",
-      question: "What equipment do you use for your photography?",
+      question: "What are your fees?",
       answer:
-        "I specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
+        "Our fees vary depending on the complexity of your event and the level of service you require. We offer a free consultation to discuss your needs and provide a customized quote.",
     },
     {
       id: "3",
-      question: "Can I request a specific location for a ",
+      question: "How far in advance should I book your services?",
       answer:
-        "I specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
+        "The sooner, the better! Ideally, booking at least 6 months in advance allows us ample time to secure the perfect vendors and venue for your event.",
     },
     {
       id: "4",
-      question: "What is your editing process like?",
+      question: " Can I customize my event package?",
       answer:
-        "I specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
+        "Absolutely! We understand that every event is unique. We'll work with you to create a package that includes the services you need to bring your vision to life.",
     },
     {
       id: "5",
-      question: "Are digital files included in your photography packages?",
+      question: "Do you have preferred vendors?",
       answer:
-        "I specialize in [Portrait, Landscape, Event, etc. photography, capturing moments that tell unique stories.",
+        "We work with a network of trusted and talented vendors across various industries. However, we are always open to your suggestions and happy to collaborate with your preferred vendors.",
     },
     {
       id: "6",
-      question: "Do you offer prints of your photographs?",
+      question: "What happens on the day of the event?",
       answer:
-        "Yes, prints are available for purchase. Explore the 'Prints' section for more details on sizes and pricing.",
+        "We'll be there every step of the way! Our team will manage all logistics, ensuring everything runs smoothly and according to plan. You can relax and enjoy your event knowing we've got it covered.",
     },
     {
       id: "7",
       question:
-        "How long does it take to receive the edited photos after a session?",
+        "How can I get started?",
       answer:
-        "Yes, prints are available for purchase. Explore the 'Prints' section for more details on sizes and pricing.",
+        "Contact us today for a free consultation! We'd love to hear about your event vision and discuss how we can help you make it a reality.",
     },
   ];
 

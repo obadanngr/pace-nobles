@@ -12,7 +12,7 @@ function AboutSection() {
         <div>
           <Header
             title="About"
-            description={`I AM ${PORTFOLIO_OWNER_FIRSTNAME}`}
+            description="a lifetime of extraordinary memories and experiences."
           />
         </div>
         <div>

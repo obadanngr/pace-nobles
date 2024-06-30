@@ -8,17 +8,13 @@ function AboutCard() {
       <div className="flex gap-2 items-center  pt-[2.5rem] px-[2.5rem]">
         <img src="/images/few_legs_star.png" alt="half star" />
         <p className="text-lightGray font-[500] text-[1.25rem] md:text-[1.875rem]">
-          Introduction
+          WHO WE ARE
         </p>
       </div>
       <p className="text-customGrayAlt2 text-[0.875rem] mt-[0.75rem]  px-[2.5rem]">
-        My journey as a photographer has been a lifelong quest to capture the
-        extraordinary in the ordinary, to freeze fleeting moments in time, and
-        to share the world&apos;s beauty as I see it. Based in the enchanting
-        landscapes of the USA, I find inspiration in every corner of this
-        diverse and vibrant country. Join me as we embark on a visual odyssey,
-        where each photograph tells a story, and every frame is a piece of my
-        heart.
+      Our mission is to plan and design your event by carefully selecting vendors that cater to your vision,
+      expectation, and budget. Curating a detailed timeline, diagram, and checklist to ensure every little 
+      detail is addressed and executed.
       </p>
 
       <Separator className="bg-lightDark my-[2.5rem]" />
@@ -37,7 +33,7 @@ function AboutCard() {
               Email
             </p>
             <p className="text-[1.125rem] font-[500] text-customGrayAlt2">
-              damienbraun@gmail.com
+              contact@panevents.ng
             </p>
           </div>
 
@@ -46,7 +42,7 @@ function AboutCard() {
               Phone Number
             </p>
             <p className="text-[1.125rem] font-[500] text-customGrayAlt2">
-              +00 000000000
+              +234 80321045800
             </p>
           </div>
         </div>
@@ -73,7 +69,7 @@ function AboutCard() {
 
         <div className="flex flex-col lg:flex-row gap-[1.25rem]">
           <MainButton text="Let's Work" classes="w-full md:w-[inherit]" />
-          <MainButton text="Download CV" classes="w-full md:w-[inherit]" />
+          <MainButton text="Download Portfolio" classes="w-full md:w-[inherit]" />
         </div>
       </div>
     </div>

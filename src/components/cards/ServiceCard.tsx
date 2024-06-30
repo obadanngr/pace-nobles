@@ -2,9 +2,9 @@ import React from "react";
 
 function ServiceCard() {
   const serviceHighlightData = [
-    "Coverage for weddings, parties, corporate functions, and more.",
-    "Skilled photographers who know how to seize the moment.",
-    "A mix of candid and posed shots for a comprehensive story.",
+    " from venue selection,to vendor coordination & budget management, we ensure your event runs flawlessly.",
+    "specialists in weddings, parties, corporate functions and more.",
+    "one-stop shop for planning expertise across a wide range of events.",
     "Quick turnaround for you to relive the day's highlights.",
   ];
   return (
@@ -20,11 +20,9 @@ function ServiceCard() {
           />
         </div>
         <p className="text-customGrayAlt2 text-[1/125rem] mt-[0.75rem]">
-          Our event photography service is dedicated to capturing the magic of
-          your special occasions. Whether it&apos;s a wedding, corporate event,
+        We’re your sounding board, keeping everything organized and your plans guaranteed to be on track for a successful result.Whether it&apos;s a wedding, corporate event,
           or milestone celebration, we&apos;re there to document every heartfelt
-          moment. We blend into the background, ensuring natural and candid
-          shots that reflect the emotions of the day
+          moment. 
         </p>
 
         <p className="mt-[3.12rem] mb-[1.25rem] text-lightGray font-[500] text-[1.125rem]">

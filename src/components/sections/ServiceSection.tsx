@@ -10,7 +10,7 @@ function ServiceSection() {
     <section className="">
       <section className="flex justify-between flex-col md:flex-row gap-[1.25rem]">
         <div>
-          <Header title="Services" description="My Photography Services" />
+          <Header title="Services" description="UNIQUE, BEAUTIFUL & INTERACTIVE EXPERIENCES" />
         </div>
         <div className="flex items-center gap-8">
           <div className="hidden lg:inline-flex border border-lightDark rounded-[6.25rem]  justify-between p-[0.62rem] gap-4 w-[170px]">
